@@ -10,7 +10,7 @@ a.To perform data cleaning,structuring to make more appropriate usable format fo
 b.Analyzing the dataset for interpreting results and to find out insights,hidden patterns,future trends of dataset
 
 
-Reference: https://www.kaggle.com/lava18/google-play-store-apps
+
 
 II.Cancer survival dataset
 
@@ -22,4 +22,3 @@ In this Haberman dataset people undergone treatment for cancer,after the treatme
 
 Objective : To classify the survival status of a patient by using given three features like Patient age,Operation year and number of auxillary nodes
 
-Reference: https://www.kaggle.com/gilsousa/habermans-survival-data-set
